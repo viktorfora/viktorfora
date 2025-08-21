@@ -3,7 +3,7 @@
 Working on coding exercises and building my portfolio
 
 My interests include:
-- Finnce
+- Finance
 - Asset management
 - Agortithms
 
