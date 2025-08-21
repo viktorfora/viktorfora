@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 Working on coding exercises and building my portfolio
-My interests include 
+
+My interests include:
 - Finnce
 - Asset management
 - Agortithms
+
+
 <!--
 **viktorfora/viktorfora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
