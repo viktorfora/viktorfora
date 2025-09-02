@@ -2,6 +2,9 @@
 
 Working on coding exercises and building my portfolio
 
+
+I'm also including some of the projects i did in my classes.
+
 My interests include:
 - Finance
 - Asset management
